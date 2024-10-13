@@ -5,7 +5,7 @@ import {
   withdrawal,
   deposit,
   transfer,
-} from "./transactionsSlice";
+} from "../transactions/transactionsSlice";
 import "./transactions.scss";
 
 /**
